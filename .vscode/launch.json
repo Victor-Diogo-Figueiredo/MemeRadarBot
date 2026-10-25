@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Iniciar Solana Memecoin Radar",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/bot_melhorado.py",
+            "console": "integratedTerminal",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
